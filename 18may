@@ -19,7 +19,7 @@
   <!-- Music -->
   <audio id="bgMusic" loop>
     <!-- REPLACE MUSIC FILE HERE -->
-    <source src="music/romantic-song.mp3" type="audio/mp3">
+    <source src="music/birthday.mp3.mp3" type="audio/mp3">
   </audio>
 
   <!-- Music Button -->
@@ -47,27 +47,30 @@
   <section id="gallery" class="gallery-section">
     <h2>Our Beautiful Memories ✨</h2>
 
-    <div class="gallery">
+    <!-- HERO IMAGE -->
+<img src="hero.jpg.jpeg" class="hero-bg" alt="Hero">
 
-  <img src="images/cute-cartoon.jpg">
-  <img src="images/hug-cartoon.jpg">
+<!-- GALLERY -->
+<section id="gallery" class="gallery-section">
+  <h2>Our Beautiful Memories ✨</h2>
 
-  <img src="images/childhood.jpg">
+  <div class="gallery">
 
-  <img src="images/event1.jpg">
-  <img src="images/event2.jpg">
-  <img src="images/event3.jpg">
+    <img src="childhood.jpg.jpeg" alt="" loading="lazy">
+    <img src="ciao.jpg.jpeg" alt="" loading="lazy">
+    <img src="cute-cartoon.jpg.jpeg" alt="" loading="lazy">
+    <img src="event1.jpg.jpeg" alt="" loading="lazy">
+    <img src="event2.jpg.jpeg" alt="" loading="lazy">
+    <img src="event3.jpg.jpeg" alt="" loading="lazy">
+    <img src="flower-edit.jpg.jpeg" alt="" loading="lazy">
+    <img src="her-smile.jpg.jpeg" alt="" loading="lazy">
+    <img src="hug-cartoon.jpg.jpeg" alt="" loading="lazy">
+    <img src="polaroid.jpg.jpeg" alt="" loading="lazy">
+    <img src="selfie1.jpg.jpeg" alt="" loading="lazy">
+    <img src="selfie2.jpg.jpeg" alt="" loading="lazy">
 
-  <img src="images/her-smile.jpg">
-  <img src="images/ciao.jpg">
-
-  <img src="images/selfie1.jpg">
-  <img src="images/selfie2.jpg">
-
-  <img src="images/flower-edit.jpg">
-  <img src="images/polaroid.jpg">
-
-</div>
+  </div>
+</section>
   </section>
 
   <!-- LIGHTBOX -->
